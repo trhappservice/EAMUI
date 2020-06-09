@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Water Supply Network",
+    "count": 211741
+  },
+  {
+    "name": "Stormwater Conveyance",
+    "count": 108951
+  },
+  {
+    "name": "Sanitary Sewer Network",
+    "count": 66998
+  },
+  {
+    "name": "Roads",
+    "count": 31712
+  },
+  {
+    "name": "Active Transportation within Right-of-Way",
+    "count": 5376
+  }
+]
